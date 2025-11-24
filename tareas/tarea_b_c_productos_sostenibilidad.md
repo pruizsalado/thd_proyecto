@@ -39,29 +39,47 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:La UOC publicó un estudio que demuestra que el uso estratégico de IA en pymes acelera la sostenibilidad ambiental y social. Aplicación en EcoTech: usar IA para optimizar procesos internos y de clientes, lo que refuerza su misión sostenible y competitiva.
-- Caso IoT:En el edificio “The Edge” de Amsterdam se usaron sensores IoT + IA para optimizar la climatización y el consumo energético, alcanzando una eficiencia energética muy alta. Aplicación en EcoTech: instalar sensores en los edificios de los clientes para monitorizar temperatura, ocupación o consumo, y aplicar modelos de IA para controlar HVAC o iluminación.
-- Caso Big Data:En un estudio sobre gestión de energía en edificios con IoT + IA, los investigadores mostraron ahorros de energía de entre 20 % y 40 %. Aplicación en EcoTech: ofrecer un servicio analítico donde los datos de los sensores se almacenan, se analizan y se muestran en dashboards para el cliente, permitiendo decisiones informadas para ajustar consumo.
-- Caso Cloud:Microsoft está construyendo centros de datos en España con diseños sostenibles, por ejemplo sin consumo de agua para refrigeración. Aplicación en EcoTech: desplegar su plataforma SaaS en la nube aprovechando proveedores con data centers “verdes”, lo que refuerza la sostenibilidad de su propio servicio.
-- Caso Blockchain:Caso Blockchain: Maersk usa una plataforma basada en blockchain + machine learning para logística y cadena de suministro sostenible. Aplicación en EcoTech: diseñar una solución de blockchain para certificar el origen renovable de la energía, aportar trazabilidad a la cadena energética de sus clientes.
-- Caso Ciberseguridad:Caso Ciberseguridad: Aunque no se cite un caso “empresa noticia” específico, la ciberseguridad es esencial en cualquier despliegue IoT / Cloud para proteger datos sensibles y evitar ataques que podrían afectar la infraestructura energética.
-- Caso RA/RV:Caso RA / RV: En la planta de Renault en Palencia se menciona el uso de “metaverso industrial” y gemelos digitales para simular procesos y formar operarios. Aplicación en EcoTech: crear simulaciones virtuales de instalaciones energéticas para entrenar al personal, prever puntos de fallo, simular mejoras de eficiencia antes de implementarlas físicamente.
+- Caso IA: La UOC publicó un estudio que demuestra que el uso estratégico de IA en pymes acelera la sostenibilidad ambiental y social.
+  Aplicación en EcoTech: usar IA para optimizar procesos internos y de clientes, lo que refuerza su misión sostenible y competitiva.
+  
+- Caso IoT: En el edificio “The Edge” de Amsterdam se usaron sensores IoT + IA para optimizar la climatización y el consumo energético, alcanzando una eficiencia energética muy alta.
+  Aplicación en EcoTech: instalar sensores en los edificios de los clientes para monitorizar temperatura, ocupación o consumo, y aplicar modelos de IA para controlar HVAC o iluminación.
+  
+- Caso Big Data: En un estudio sobre gestión de energía en edificios con IoT + IA, los investigadores mostraron ahorros de energía de entre 20 % y 40 %.
+  Aplicación en EcoTech: ofrecer un servicio analítico donde los datos de los sensores se almacenan, se analizan y se muestran en dashboards para el cliente, permitiendo decisiones informadas para ajustar consumo.
+
+- Caso Cloud: Microsoft está construyendo centros de datos en España con diseños sostenibles, por ejemplo sin consumo de agua para refrigeración.
+  Aplicación en EcoTech: desplegar su plataforma SaaS en la nube aprovechando proveedores con data centers “verdes”, lo que refuerza la sostenibilidad de su propio servicio.
+  
+- Caso Blockchain: Caso Blockchain: Maersk usa una plataforma basada en blockchain + machine learning para logística y cadena de suministro sostenible.
+  Aplicación en EcoTech: diseñar una solución de blockchain para certificar el origen renovable de la energía, aportar trazabilidad a la cadena energética de sus clientes.
+  
+- Caso Ciberseguridad: Aunque no se cite un caso “empresa noticia” específico, la ciberseguridad es esencial en cualquier despliegue IoT / Cloud para proteger datos sensibles y evitar ataques que podrían afectar la infraestructura energética.
+  
+- Caso RA/RV:Caso RA / RV: En la planta de Renault en Palencia se menciona el uso de “metaverso industrial” y gemelos digitales para simular procesos y formar operarios.
+  Aplicación en EcoTech: crear simulaciones virtuales de instalaciones energéticas para entrenar al personal, prever puntos de fallo, simular mejoras de eficiencia antes de implementarlas físicamente.
 
 ---
 
 ## 🧠 Reflexión final
 - ¿Qué tecnología aporta más valor a los productos/servicios?
-- Para EcoTech, la combinación de IA + IoT parece la más potente: permite un control en tiempo real de recursos, predicción de necesidades y automatización para mejorar eficiencia energética.
+  Para EcoTech, la combinación de IA + IoT parece la más potente: permite un control en tiempo real de recursos, predicción de necesidades y automatización para mejorar eficiencia energética.
+
 - ¿Cuál genera mayor impacto sostenible?
-- IoT + IA juntas tiene un gran impacto porque pueden reducir el consumo energético significativamente, optimizar el uso de espacio, y reducir emisiones. Además, el uso de blockchain para trazabilidad añade transparencia y promueve prácticas “verdes” en la cadena de suministro.
+  IoT + IA juntas tiene un gran impacto porque pueden reducir el consumo energético significativamente, optimizar el uso de espacio, y reducir emisiones. Además, el uso de blockchain para trazabilidad añade transparencia y promueve prácticas “verdes” en la cadena de suministro.
+
 - ¿Qué combinación sería más eficiente para la empresa?
-- Una estrategia híbrida: usar IoT + IA para la optimización y el monitoreo; Cloud para escalar la plataforma; y añadir blockchain para un servicio premium de trazabilidad sostenible. Complementar con ciberseguridad desde el inicio para asegurar la confianza, y usar RA/RV para formación y simulación.
+  Una estrategia híbrida: usar IoT + IA para la optimización y el monitoreo; Cloud para escalar la plataforma; y añadir blockchain para un servicio premium de trazabilidad sostenible. Complementar con ciberseguridad desde el inicio para asegurar la confianza, y usar RA/RV para formación y simulación.
 
 ## 📚 Fuentes consultadas
 https://www.uoc.edu/es/news/2025/pimes-mas-sostenibles-con-ia?utm_source=chatgpt.com
+
 https://www.mdpi.com/2071-1050/17/22/10313?utm_source=chatgpt.com
+
 https://cincodias.elpais.com/companias/2025-03-19/microsoft-aspira-a-crear-centros-de-datos-que-no-consuman-agua-en-espana.html?utm_source=chatgpt.com
+
 https://cadenaser.com/castillayleon/2025/07/03/renault-impulsa-su-revolucion-digital-en-palencia-con-ia-y-5000-millones-de-datos-diarios-radio-palencia/?utm_source=chatgpt.com
+
 ✅ Criterios de evaluación
 b) Relación entre THD y productos/servicios.
 c) Impacto sostenible correctamente argumentado.
