@@ -2,6 +2,7 @@
 
 ## 🏢 Empresa seleccionada
 Breve descripción de la empresa real o ficticia.
+
 EcoTech Solutions es una empresa tecnológica que ofrece servicios digitales a empresas e instituciones, centrados en sostenibilidad, eficiencia energética y transformación digital. Su misión es impulsar el uso responsable de recursos naturales mediante tecnologías avanzadas, ayudando a sus clientes a reducir su huella de carbono, optimizar sus operaciones y mejorar su resiliencia.
 ---
 
